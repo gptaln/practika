@@ -1,0 +1,9 @@
+{
+  "name": "alina-portfolio-backend",
+  "version": "1.0.0",
+  "description": "backend for portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/gptaln/practika.git",
+  "author": "Alina",
+  "license": "MIT"
+}
